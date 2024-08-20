@@ -23,11 +23,11 @@ The BioStress dataset was used for analysis and model development. The data was 
 
 In the data preparation or cleaning phase, the following tasks were performed:
 
-📂 Data Loading
-🧹 Handling missing and duplicate values
-⏲️ Frequency conversion to 1 Hz for all signals
-📉 Outlier detection and removal
-📝 Data Formatting
+- 📂 Data Loading
+- 🧹 Handling missing and duplicate values
+- ⏲️ Frequency conversion to 1 Hz for all signals
+- 📉 Outlier detection and removal
+- 📝 Data Formatting
 
 ### 🔍 Exploratory Data Analysis
 
