@@ -23,11 +23,11 @@ The BioStress dataset was used for analysis and model development. The data was 
 
 In the data preparation or cleaning phase, the following tasks were performed:
 
-- 📂 Data Loading
-- 🧹 Handling missing and duplicate values
-- ⏲️ Frequency conversion to 1 Hz for all signals
-- 📉 Outlier detection and removal
-- 📝 Data Formatting
+- Data Loading 📂 
+- Handling missing and duplicate values 🧹
+- Frequency conversion to 1 Hz for all signals ⏲️
+- Outlier detection and removal 📉
+- Data Formatting 📝
 
 ### 🔍 Exploratory Data Analysis
 
@@ -58,5 +58,5 @@ EDA was performed on the data and features associated with it:
 
 ### 🚀 Future Scope
 
-🛡️ Federated learning can be utilized to address user privacy and security concerns. The data used in this project is taken from wearables from the users, which might contain sensitive and private information related to the user. Such information should be handled with care.
-🔍 Along with DNN, other deep learning models can be explored for improved and consistent model performance.
+1. Federated learning can be utilized to address user privacy and security concerns. The data used in this project is taken from wearables from the users, which might contain sensitive and private information related to the user. Such information should be handled with care 🛡️
+2. Along with DNN, other deep learning models can be explored for improved and consistent model performance 🔍
